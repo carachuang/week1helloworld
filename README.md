@@ -2,9 +2,12 @@
 Hi, 我是台科大工業設計四年級的學生, 莊佳樺（Cara Chuang)
 
 inclass
-
-<li>a</li> install Django, Acanda
-
+</ol>
+<ul style="list-style-type:lower-roman;">
+<li>install</li>
+<li>前方顯示小寫羅馬數字</li>
+<li>前方顯示小寫羅馬數字</li>
+</ul>
 
 
 
