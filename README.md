@@ -1,7 +1,7 @@
 # Introduce myself
 Hi, 我是台科大工業設計四年級的學生, 莊佳樺（Cara Chuang)
 
-<b>inclass<b/> 
+<h2>in class</h2>
 </ol>
 <ul style="list-style-type:lower-roman;">
 <li>install Django, Acanda</li>
