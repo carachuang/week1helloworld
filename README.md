@@ -7,7 +7,7 @@ Hi, 我是台科大工業設計四年級的學生, 莊佳樺（Cara Chuang)
 
 <p><br><b>At home</b>
 <li>learn github</li>
-<li>register Github, Heroku</li>
+<li></li>
 
 
 <p><br><b>Home work</b>
